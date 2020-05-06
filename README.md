@@ -1,4 +1,4 @@
 # test_repo
 Test Repository
 
-Blah blah
+This is a test Repository
